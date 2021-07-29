@@ -1,0 +1,87 @@
+{
+	"basics": {
+		"name": "Shivani",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/83162630?s=400&u=53bf88285d31ff916613b8d4cf490729eb19d165&v=4",
+		"email": "shivanichoudharychi@gmail.com",
+		"phone": "",7665127245";
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "Hey There! I am Shivani. My interst deeply revolves around Exploring and Learning Web-Development, Data-Structures. I like to help people learn technology, and work with communities.",
+		"location": {
+			"address": "Vpo-Togra, Tehsil-Jhunjhunu, Dist-Jhunjhunu",
+			"postalCode": "333021",
+			"city": "Jhunjhunu",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "Shivani Choudhary",
+				"url": "https://mobile.twitter.com/Shivani06766606";
+			},
+			{
+				"network": "Github",
+				"username": "Shivani-techno",
+				"url": "https://github.com/Shivani-techno/";
+			},
+			{
+				"network": "linkedin",
+				"username": "Shivani Choudhary",
+				"url": "https://www.linkedin.com/in/shivani-choudhary-36bab01bb/"
+			},
+			{
+				"network": "Instagram",
+				"username": "shivanichoudharychi",
+				"url": "https://www.instagram.com/shivanichoudharychi/"
+			}
+		]
+	},
+	"work": [{
+		"company": "---",
+		"position": "----",
+		"website": "----",
+		"startDate": "2020-08-04//Take care about Date Format",
+		"endDate": "Date // ",
+		"summary": "---Tell me something About Org. --- ",
+		"highlights": ["Add Highlights", "Your work details"]
+	}],
+	"volunteer": [{
+		"organization": "---Name Org ---",
+		"position": "---Add ---",
+		"website": "---",
+		"startDate": "2020-01-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Description...",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-08",
+		"endDate": "2024",
+		"gpa": "8.50 in 1st Semester",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "--Title---",
+		"awarder": "---Receiverd By ---",
+		"date": "2020-08-21//Date"
+	}],
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "Node", "Java", "C", "Express"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": [ "Basketball", "Badminton", "Carrom"]
+	}],
+	"references": []
+}
