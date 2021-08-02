@@ -5,7 +5,7 @@
 		"picture": "https://avatars.githubusercontent.com/u/82524904?s=400&u=74ea15797f25e9df963da2da8035efa957e90d1e&v=4",
 		"email": "shivanichoudharychi@gmail.com",
 		"phone": "7665127245",
-		"website": "---Enter Link of website(if any) ---",
+		"website": "",
 		"summary": "Hey There! I am Shivani. My interst deeply revolves around Exploring and Learning Web-Development, Data-Structures. I like to help people learn technology, and work with communities.",
 		"location": {
 			"address": "Vpo-Togra, Tehsil-Jhunjhunu, Dist-Jhunjhunu",
@@ -37,21 +37,21 @@
 		]
 	},
 	"work": [{
-		"company": "---",
-		"position": "----",
-		"website": "----",
+		"company": "",
+		"position": "",
+		"website": "",
 		"startDate": "2020-08-04//Take care about Date Format",
-		"endDate": "Date // ",
-		"summary": "---Tell me something About Org. --- ",
-		"highlights": ["Add Highlights", "Your work details"]
+		"endDate": "",
+		"summary": "",
+		"highlights": []
 	}],
 	"volunteer": [{
-		"organization": "---Name Org ---",
-		"position": "---Add ---",
-		"website": "---",
-		"startDate": "2020-01-01 // Note Date Format",
-		"endDate": "---",
-		"summary": "Description...",
+		"organization": "",
+		"position": "",
+		"website": "",
+		"startDate": "",
+		"endDate": "",
+		"summary": "",
 		"highlights": []
 	}],
 	"education": [{
@@ -66,14 +66,14 @@
 		]
 	}],
 	"awards": [{
-		"title": "--Title---",
-		"awarder": "---Receiverd By ---",
-		"date": "2020-08-21//Date"
+		"title": "",
+		"awarder": "",
+		"date": ""
 	}],
 	"publications": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
+		"title": "",
+		"details": "",
+		"link": ""
 	}],
 	"skills": [{
 		"level": "Intermediate",
